@@ -12,7 +12,9 @@ discord.py
    :alt: PyPI supported Python versions
 
 A modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python.
-
+(since the old discord.py project has now been shutdown, this fork will be used for my personal 
+projects and updated if I see so fit for myself. I'll not update much and there are enough 
+discord.py forks out there, so no need to use mine )
 
 Key Features
 -------------
